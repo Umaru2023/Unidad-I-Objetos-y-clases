@@ -6,11 +6,8 @@ public class Libro
     public string Título { get; set; }
     public string Autor { get; set; }
 
-    // Método para mostrar información del libro
-    public void MostrarInformación()
-    {
-        
-    }
+  
+   
 }
 
 class Program
