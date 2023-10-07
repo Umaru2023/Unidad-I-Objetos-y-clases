@@ -8,10 +8,7 @@ public class Estudiante
     public string Curso { get; set; }
 
     
-    public Estudiante(string nombre, int edad, string curso)
-    {
-        
-    }
+   
 }
 
 class Program
